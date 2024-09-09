@@ -281,11 +281,6 @@ git submodule add -b moodle42b https://bitbucket.org/dw8/moodle-format_tiles.git
 git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
-- https://github.com/moodleworkplace/moodle-format_wplist
-```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
-```
-
 ### Theme
 
 - https://github.com/ProjetoSophiaDev/eguru4.1
