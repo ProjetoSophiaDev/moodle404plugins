@@ -1,0 +1,4 @@
+[submodule "moodle/theme/academi"]
+	path = moodle/theme/academi
+	url = https://github.com/ProjetoSophiaDev/academi.git
+	branch = main
