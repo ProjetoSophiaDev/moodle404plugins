@@ -14,3 +14,43 @@
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
 	branch = FORMAT_ETASK_24_STABLE
+[submodule "moodle/enrol/autoenrol"]
+	path = moodle/enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+	branch = master
+[submodule "moodle/admin/tool/certificate"]
+	path = moodle/admin/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
+	branch = MOODLE_400_STABLE
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = master
+[submodule "moodle/local/sandbox"]
+	path = moodle/local/sandbox
+	url = https://github.com/moodleuulm/moodle-local_sandbox.git
+	branch = MOODLE_404_STABLE
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = main
+[submodule "moodle/availability/condition/relativedate"]
+	path = moodle/availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
+[submodule "moodle/availability/condition/sectioncompleted"]
+	path = moodle/availability/condition/sectioncompleted
+	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
+	branch = main
+[submodule "moodle/report/allbackups"]
+	path = moodle/report/allbackups
+	url = https://github.com/catalyst/moodle-report_allbackups.git
+	branch = MOODLE_400_STABLE
+[submodule "moodle/report/benchmark"]
+	path = moodle/report/benchmark
+	url = https://github.com/mikasmart/moodle-report_benchmark.git
+	branch = master
+[submodule "moodle/report/coursesize"]
+	path = moodle/report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = MOODLE_39_STABLE
