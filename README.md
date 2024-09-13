@@ -236,14 +236,14 @@ git submodule add -b main https://github.com/bdecentgmbh/moodle-availability_sec
 
 - https://github.com/MFreakNL/moodle-availability_ipaddress
 ```bash
-git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
+git submodule add -b main https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
 ```
 
 ### LOCAL
 
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+git submodule add -b MOODLE_404_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### ADMIN
