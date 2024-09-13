@@ -153,17 +153,17 @@ git submodule add -b master https://github.com/deraadt/moodle-block_completion_p
 
 - https://github.com/catalyst/moodle-block_dedication
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-block_dedication.git blocks/dedication
+git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-block_dedication.git blocks/dedication
 ```
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
-git submodule add -b MOODLE_42_STABLE https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
 - https://github.com/remotelearner/moodle-block_grade_me
 ```bash
-git submodule add -b MOODLE_401_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
+git submodule add -b MOODLE_403_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
 ```
 
 ### QTYPE
@@ -172,16 +172,10 @@ git submodule add -b MOODLE_401_STABLE https://github.com/remotelearner/moodle-b
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
 
-- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+- https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion
 ```bash
-git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
-
-- https://github.com/gbateson/moodle-qtype_ordering
-```bash
-git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
-```
-
 - https://github.com/moodleou/moodle-qtype_combined
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
@@ -207,6 +201,7 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.gi
 git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
+
 
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
