@@ -64,59 +64,49 @@ cd moodle
 
 
 ### MOD
-
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+git submodule add -b MOODLE_404_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
-
 - https://github.com/ndunand/moodle-mod_choicegroup
 ```bash
 git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.git mod/choicegroup
 ```
-
 - https://github.com/frankkoch/moodle-mod_studentquiz
 ```bash
 git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
 ```
-
 - https://github.com/xow/moodle-mod_quizgame
 ```bash
 git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
 ```
-
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
 git submodule add -b master https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
-
 - https://github.com/davosmith/moodle-checklist
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
 ```
-
 - https://github.com/projectestac/moodle-mod_geogebra
 ```bash
 git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
 ```
-
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_404_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
-
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
-```
-
-- https://github.com/mudrd8mz/moodle-mod_subcourse
-```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+git submodule add -b MOODLE_404_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 - https://github.com/moodleworkplace/moodle-mod_coursecertificate
 ```bash
 git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+```
+- https://github.com/mudrd8mz/moodle-mod_subcourse
+```bash
+git submodule add -b MOODLE_404_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
