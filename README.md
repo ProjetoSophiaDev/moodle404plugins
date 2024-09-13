@@ -269,16 +269,16 @@ git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.
 
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+git submodule add -b MOODLE_404_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b moodle42b https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b moodle44 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
 - https://gitlab.com/drlikm/format_etask
 ```bash
-git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
+git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
 ### Theme
