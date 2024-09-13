@@ -123,7 +123,7 @@ git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle
 git submodule add -b MOODLE_400_STABLE https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
 
-### ATTO
+### ATTO - REMOVED!
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
@@ -137,6 +137,21 @@ git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git
 - https://moodle.org/plugins/atto_justify
 ```bash
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
+```
+
+### TINY
+- https://github.com/srobotta/moodle-tiny_cloze
+```bash
+git submodule add -b main https://github.com/srobotta/moodle-tiny_cloze.git lib/editor/tiny/plugins/cloze
+```
+- https://github.com/bfh/moodle-tiny_fontcolor
+```bash
+git submodule add -b master https://github.com/bfh/moodle-tiny_fontcolor.git lib/editor/tiny/plugins/fontcolor
+```
+
+- https://github.com/dthies/moodle-tiny_preview
+```bash
+git submodule add -b main https://github.com/dthies/moodle-tiny_preview.git lib/editor/tiny/plugins/preview
 ```
 
 ### BLOCK
