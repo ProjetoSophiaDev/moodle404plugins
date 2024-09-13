@@ -283,31 +283,15 @@ git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_eta
 
 ### Theme
 
-- https://github.com/ProjetoSophiaDev/eguru4.1
-
-```bash
-git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.1.git theme/eguru
-```
 - https://github.com/ProjetoSophiaDev/academi
 ```bash
 git submodule add -b main https://github.com/ProjetoSophiaDev/academi.git theme/academi
 ```
 ## REMOVED
+- https://github.com/ProjetoSophiaDev/eguru4.1
 
-- https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
-git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
-```
-
-- https://github.com/h5p/h5p-moodle-plugin
-```bash
-git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
-cd mod/hvp
-git submodule update --init
-```
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.1.git theme/eguru
 ```
 
 ## Git commands
