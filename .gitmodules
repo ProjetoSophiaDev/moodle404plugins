@@ -182,3 +182,7 @@
 	path = moodle/availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
 	branch = main
+[submodule "moodle/user/profile/field/brasilufmunicipio"]
+	path = moodle/user/profile/field/brasilufmunicipio
+	url = https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git
+	branch = main
