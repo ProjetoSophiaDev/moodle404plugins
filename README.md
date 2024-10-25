@@ -238,6 +238,10 @@ git submodule add -b main https://github.com/bdecentgmbh/moodle-availability_sec
 ```bash
 git submodule add -b main https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
 ```
+- https://github.com/ewallah/moodle-availability_coursecompleted
+```bash
+git submodule add -b main https://github.com/ewallah/moodle-availability_coursecompleted.git availability/condition/coursecompleted
+```
 
 ### LOCAL
 
