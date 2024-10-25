@@ -178,3 +178,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/availability/condition/coursecompleted"]
+	path = moodle/availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+	branch = main
