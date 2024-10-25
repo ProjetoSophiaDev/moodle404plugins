@@ -285,6 +285,12 @@ git submodule add -b moodle44 https://bitbucket.org/dw8/moodle-format_tiles.git 
 git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
+### USER
+- https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio
+```bash
+git submodule add -b main https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio.git user/profile/field/brasilufmunicipio
+```
+
 ### Theme
 
 - https://github.com/ProjetoSophiaDev/academi
